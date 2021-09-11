@@ -1,0 +1,3 @@
+Create Env with numpy matplotlib pytorch tensorboard
+Get the lafan data: run2_subject1, walk1_subject1, walk2_subject1, walk3_subject1 and put it in the bvh_data folder
+tensorboard --logdir="runs"
